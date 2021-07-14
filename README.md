@@ -1,3 +1,4 @@
+# This project is a learning project on React with use of Firebase to test some functions. This web application can view all the meetups, add new meetups and add meetups to favorites.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
